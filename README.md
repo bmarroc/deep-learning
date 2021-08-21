@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks implementing Deep Learning algorithms to solve different problems. 
 
-The notebooks use Keras (on top of Tensorflow 2.1). 
+The notebooks use Keras and Tensorflow 2.1. 
 
 ### Table of contents
 
