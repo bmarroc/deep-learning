@@ -32,7 +32,6 @@ The notebooks use Keras and Tensorflow 2.1.
 * [24 - Bidirectional LSTM: Application](https://github.com/bmarroc/deep-learning/blob/bdb5dc360bb574f585677830b37a944bcce1fb89/24/dl_24.ipynb)
 * [25 - Trigger Word Detection with a Sequential Model](https://github.com/bmarroc/deep-learning/blob/bdb5dc360bb574f585677830b37a944bcce1fb89/25/dl_25.ipynb)
 * [26 - Time Series Forecasting](https://github.com/bmarroc/deep-learning/blob/bdb5dc360bb574f585677830b37a944bcce1fb89/26/dl_26.ipynb)
-* [27 - Multivariate Time Series Forecasting](https://github.com/bmarroc/deep-learning/blob/bdb5dc360bb574f585677830b37a944bcce1fb89/27/dl_27.ipynb)
 
 
 
